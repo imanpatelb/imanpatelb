@@ -35,6 +35,5 @@ I'm passionate about building and designing efficient, modern web applications u
 [![](https://visitcount.itsvg.in/api?id=imanpatelb&icon=9&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://www.paypal.com/donate/?business=X4A4EB6SA7G8N&no_recurring=0&currency_code=CAD)
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=X4A4EB6SA7G8N&no_recurring=0&currency_code=CAD)
 
